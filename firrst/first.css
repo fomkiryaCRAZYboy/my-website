@@ -1,0 +1,5 @@
+html {
+    font-size: 15px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+    font-family: 'Host+Grotesk', sans-serif;
+}
+
